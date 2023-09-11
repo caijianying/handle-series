@@ -14,7 +14,6 @@ import org.springframework.context.annotation.Bean;
 @Slf4j
 @SpringBootApplication
 public class DemoApplication {
-
     /**
      * 演示配置类创建
      **/
