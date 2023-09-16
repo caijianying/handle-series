@@ -1,6 +1,7 @@
 package com.xiaobaicai.spring.app.bean;
 
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 /**
  * @author caijy
@@ -8,6 +9,7 @@ import lombok.extern.slf4j.Slf4j;
  * @date 2023/7/22 星期六 2:25 下午
  */
 @Slf4j
+@EnableAspectJAutoProxy
 public class TestBeanCreate {
 
     public TestBeanCreate() {
