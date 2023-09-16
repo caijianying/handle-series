@@ -1,8 +1,8 @@
-package com.xiaobaicai.handle.spring.process;
+package com.xiaobaicai.handle.spring.step1;
 
 
-import com.xiaobaicai.handle.spring.process.bean.UserService;
-import com.xiaobaicai.handle.spring.process.config.AppConfig;
+import com.xiaobaicai.handle.spring.step1.bean.UserService;
+import com.xiaobaicai.handle.spring.step1.config.AppConfig;
 
 /**
  * @author caijy

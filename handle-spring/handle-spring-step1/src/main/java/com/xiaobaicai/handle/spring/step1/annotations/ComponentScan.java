@@ -1,4 +1,4 @@
-package com.xiaobaicai.handle.spring.process.annotations;
+package com.xiaobaicai.handle.spring.step1.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

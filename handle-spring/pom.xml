@@ -21,7 +21,7 @@
         </plugins>
     </build>
     <modules>
-        <module>handle-spring-process</module>
+        <module>handle-spring-step1</module>
     </modules>
 
 

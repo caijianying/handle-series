@@ -1,6 +1,6 @@
-package com.xiaobaicai.handle.spring.process.bean;
+package com.xiaobaicai.handle.spring.step1.bean;
 
-import com.xiaobaicai.handle.spring.process.annotations.Component;
+import com.xiaobaicai.handle.spring.step1.annotations.Component;
 
 /**
  * @author caijy

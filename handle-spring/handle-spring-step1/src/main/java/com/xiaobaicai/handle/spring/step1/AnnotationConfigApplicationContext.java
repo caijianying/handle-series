@@ -1,8 +1,8 @@
-package com.xiaobaicai.handle.spring.process;
+package com.xiaobaicai.handle.spring.step1;
 
 
-import com.xiaobaicai.handle.spring.process.annotations.Component;
-import com.xiaobaicai.handle.spring.process.annotations.ComponentScan;
+import com.xiaobaicai.handle.spring.step1.annotations.Component;
+import com.xiaobaicai.handle.spring.step1.annotations.ComponentScan;
 
 import java.io.File;
 import java.lang.reflect.InvocationTargetException;

@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.xiaobaicai.handle.spring.process</groupId>
-    <artifactId>handle-spring-process</artifactId>
+    <groupId>com.xiaobaicai.handle.spring.step1</groupId>
+    <artifactId>handle-spring-step1</artifactId>
 
 
 </project>
